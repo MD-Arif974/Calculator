@@ -13,6 +13,12 @@ body {
   margin-top: 1%;
 }
 
+.main-container h1{
+  text-align: center;
+  margin-top:15px;
+  font-size:40px;
+  text-decoration: underline;
+}
 .calci-container {
   width: 22%;
   height: 75%;
@@ -22,7 +28,7 @@ body {
   flex-direction: column;
   justify-content: space-around;
   position: absolute;
-  top: 10%;
+  top: 15%;
   left: 40%;
 }
 
